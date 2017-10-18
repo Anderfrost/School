@@ -1,7 +1,7 @@
     .header {
         &.content {
             .customer-welcome {
-                display: block;
+                display: inline-flex;
             }
         }
         &.content:extend(.abs-add-clearfix all) {
